@@ -4,13 +4,11 @@
   font-family: "Inter", sans-serif;
 }
 .app {
-  position: absolute;
-  top: 50%;
-  left: 50%;
   background: #1a1b21;
   max-width: 317px;
   height: 650px;
   margin-left: 50%;
+  margin-block: 10px;
   border-radius: 10px;
 }
 .image {
